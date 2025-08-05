@@ -1,4 +1,6 @@
 # Chronic Kidney Disease (CKD) Classification
+![](ckd.png)
+
 
 Hi, in this project, I explored the medical world of chronic kidney disease and built robust classification models to predict whether an individual has CKD based on clinical and demographic data.
 
